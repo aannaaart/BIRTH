@@ -1,0 +1,5 @@
+{
+  "name": "Chromatic Jigsaw Challenge",
+  "description": "A vibrant 10-puzzle game where users spawn, rotate, and snap 4-piece color blocks together to complete sets. Features smooth dragging and automatic snapping logic.",
+  "requestFramePermissions": []
+}
